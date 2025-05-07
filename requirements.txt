@@ -1,0 +1,18 @@
+Python 3.10.12
+fastapi
+uvicorn
+sqlalchemy
+sqlalchemy.orm 
+python-dotenv  # to manage DB credentials
+pydantic-settings
+yfinance
+time
+
+psycopg2
+
+streamlit
+
+google-generativeai
+
+
+
