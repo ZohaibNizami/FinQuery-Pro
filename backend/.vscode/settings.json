@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "python.analysis.extraPaths": ["./backend"],
+    "terminal.integrated.env.linux": {
+      "PYTHONPATH": "${Finquery_Pro}/backend"
+    },
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.envFile": "${Finquery_Pro}/.env"
+  }
+  
